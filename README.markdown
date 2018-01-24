@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fredis-lua.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fredis-lua?ref=badge_shield)
+
 # redis-lua #
 
 ## About ##
@@ -181,3 +183,6 @@ uptime_in_days => 0
 ## License ##
 
 The code for redis-lua is distributed under the terms of the MIT/X11 license (see LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fredis-lua.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fredis-lua?ref=badge_large)
